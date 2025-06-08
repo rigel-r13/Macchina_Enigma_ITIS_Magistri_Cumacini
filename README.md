@@ -17,3 +17,8 @@ Questo repository ha il solo scopo di rendere accessibile il programma funzionan
 volesse capirne il funzionamento o apportare modifiche al progetto.
 In questa logica si tenga presente che il programma riproduce via software il comportameto di una macchina Enigma dotata di
 2 soli dischi, di cui uno fa anche da riflessore (si veda il sistema cablato presente in laboratorio).
+
+Quando si apre il monitor seriale, dopo aver connesso la scheda al computer, la scheda deve inviare al computer le seguenti
+stringhe (da cui si può capire che il programma sulla scheda è proprio quello presente in questo repository):
+
+"Programma installato: 'turing_8'" / "Inizializzazione" / "ABCDEFGHIJKLMNOPQRSTUVWXYZ" / "Fine inizializzazione"
