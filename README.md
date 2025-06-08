@@ -6,6 +6,7 @@ ed è stato caricato sulla scheda Arduino Mega 2560 di cui è dotata la macchina
 in data 23/11/2024 a seguito di una piccola aggiunta di perfezionamento. É un programma funzionanate, eventuali malfunzionamenti
 della macchina sono da
 ricercare in falsi contatti o in connessioni interrotte o comunque in guasti di natura elettrica.
+
 N.B. Per il funzionamento della macchina non è necessario ri-installare il programma! La macchina 
 funziona correttamente anche senza essere collegata al computer, ma con una sola combinazione.
 Se si desidera cambiare la combinazione va collegato un computer dotato dell'ambiente di sviluppo di Arduino.
