@@ -18,7 +18,9 @@ stringhe (da cui si può capire che il programma sulla scheda è proprio quello 
 
 "Programma installato: 'turing_8'" / "Inizializzazione" / "ABCDEFGHIJKLMNOPQRSTUVWXYZ" / "Fine inizializzazione"
 
+Si tenga presente che il programma riproduce via software il comportameto di una macchina Enigma dotata di
+2 soli dischi, di cui uno fa anche da riflessore (si veda il sistema cablato presente in laboratorio).
+
 Questo repository ha il solo scopo di rendere accessibile il programma funzionante presente sulla macchina, a chi eventualmente
 volesse capirne il funzionamento o apportare modifiche al progetto.
-In questa logica si tenga presente che il programma riproduce via software il comportameto di una macchina Enigma dotata di
-2 soli dischi, di cui uno fa anche da riflessore (si veda il sistema cablato presente in laboratorio).
+
